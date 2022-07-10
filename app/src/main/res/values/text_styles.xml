@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="appText" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/days_one</item>
+    </style>
+    <style name="buttonText">
+        <item name="fontFamily">@font/milliard_medium</item>
+    </style>
+</resources>

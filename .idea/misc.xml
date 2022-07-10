@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.152" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/ic_launcher_background.xml" value="0.111" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1625" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/progress_bar.xml" value="0.111" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/selector_thumb.xml" value="0.1235" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/thumb_disabled.xml" value="0.1235" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/thumb_image.xml" value="0.1235" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
