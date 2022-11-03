@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m10_timer_life_cycle/app/src/main/res/drawable/selector_thumb.xml" value="0.141" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m10_timer_life_cycle/app/src/main/res/layout/activity_main.xml" value="0.2755208333333333" />
         <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.152" />
         <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/ic_launcher_background.xml" value="0.111" />
         <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1625" />
@@ -10,6 +12,7 @@
         <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/selector_thumb.xml" value="0.1235" />
         <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/thumb_disabled.xml" value="0.1235" />
         <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/drawable/thumb_image.xml" value="0.1235" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/font/days_one.xml" value="0.30092592592592593" />
         <entry key="..\:/Users/Pavel/AndroidStudioProjects/android_dev_1_2022/m3_components/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>

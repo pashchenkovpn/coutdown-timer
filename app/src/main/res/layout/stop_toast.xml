@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="80dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/stop_toast_shape">
+
+    <TextView
+        android:id="@+id/toastText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_margin="12dp"
+        android:text="@string/stop_tracking"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:fontFamily="@font/milliard_medium"/>
+
+</LinearLayout>

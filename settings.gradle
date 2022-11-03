@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "m3_components"
+rootProject.name = "CountDownTimer"
 include ':app'
